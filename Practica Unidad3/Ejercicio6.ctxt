@@ -1,3 +1,7 @@
 #BlueJ class context
 comment0.target=Ejercicio6
-numComments=1
+comment1.params=nombre1\ edad1\ nombre2\ edad2\ nombre3\ edad3
+comment1.target=void\ familia(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=a\ b
+comment2.target=int\ mayor(int,\ int)
+numComments=3

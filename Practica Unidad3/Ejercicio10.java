@@ -1,33 +1,21 @@
 
-/**
- * Write a description of class Ejercicio10 here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Ejercicio10
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class Ejercicio10
-     */
-    public Ejercicio10()
-    {
-        // initialise instance variables
-        x = 0;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
+    public String mundoNumeros(int num){   //279
+        String res = "";
+        if(100 <= num && num <= 999){
+            int digitoFinal = num % 10;   //9
+            int temp = num / 10;          //27
+            int digitoMedio = temp % 10;  //7
+            int digitoInicial = temp / 10; //2
+            if(digitoInicial <= digitoMedio && digitoMedio <= digitoFinal){
+                res = "Es un numero en crecimiento";
+            }else{
+                res = "No es un numero en crecimiento";
+            }
+        }else{
+            res = "Ingrese un numero de tres digitos";
+        }
+        return res;
     }
 }
