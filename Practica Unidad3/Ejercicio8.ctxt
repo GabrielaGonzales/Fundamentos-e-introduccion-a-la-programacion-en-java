@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment1.params=dia\ mes\ anio
+comment1.target=void\ fechaEvento(int,\ int,\ int)
+numComments=2

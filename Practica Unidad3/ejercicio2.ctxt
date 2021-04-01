@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ejercicio2
+comment1.params=a\ b\ c
+comment1.target=int\ totalMinimo(int,\ int,\ int)
+comment2.params=a\ b
+comment2.target=int\ mayor(int,\ int)
+numComments=3

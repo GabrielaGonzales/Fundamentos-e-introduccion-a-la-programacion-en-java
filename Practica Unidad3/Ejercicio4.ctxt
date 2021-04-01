@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=estado\ nVeces
+comment1.target=java.lang.String\ deducirEstadoSemaforo(int,\ int)
+comment2.params=num
+comment2.target=java.lang.String\ dimeColor(int)
+numComments=3
