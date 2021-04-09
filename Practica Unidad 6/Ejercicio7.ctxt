@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment1.params=numero
+comment1.target=int\ sumaCifras(int)
+comment2.params=numero
+comment2.target=java.lang.String\ narcisista(int)
+comment3.params=numero
+comment3.target=int\ numeroCifras(int)
+numComments=4

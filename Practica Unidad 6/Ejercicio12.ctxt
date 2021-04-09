@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment1.params=divisor\ dividendo
+comment1.target=int\ divisionClasica(int,\ int)
+numComments=2

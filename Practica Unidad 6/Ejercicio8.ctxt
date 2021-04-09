@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment1.params=numero
+comment1.target=int\ juntarNumeros(int)
+comment2.params=numero
+comment2.target=int\ cantidadDigitos(int)
+numComments=3

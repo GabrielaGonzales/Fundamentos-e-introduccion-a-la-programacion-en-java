@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment1.params=num1\ num2
+comment1.target=java.lang.String\ amistadNumeros(int,\ int)
+comment2.params=numero
+comment2.target=int\ sumaDivisores(int)
+numComments=3

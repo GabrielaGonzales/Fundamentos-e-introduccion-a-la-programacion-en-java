@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment1.params=n
+comment1.target=java.lang.String\ numeroUnicornio(int)
+comment2.params=n
+comment2.target=int\ corazonNum(int)
+comment3.params=base\ exp
+comment3.target=int\ potencia(int,\ int)
+comment4.params=n
+comment4.target=int\ cantDig(int)
+numComments=5
