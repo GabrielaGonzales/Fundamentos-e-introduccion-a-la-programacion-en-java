@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Maquina
+comment1.params=
+comment1.target=Maquina()
+comment2.params=
+comment2.target=java.lang.String\ encenderMaquina()
+comment3.params=
+comment3.target=java.lang.String\ apagarMaquina()
+comment4.params=cantidad
+comment4.target=java.lang.String\ agregarSavia(int)
+comment5.params=
+comment5.target=java.lang.String\ crearReflejosLagrimas()
+comment6.params=
+comment6.target=void\ mostrarContenido()
+comment7.params=
+comment7.target=void\ retirarTodoContenido()
+numComments=8

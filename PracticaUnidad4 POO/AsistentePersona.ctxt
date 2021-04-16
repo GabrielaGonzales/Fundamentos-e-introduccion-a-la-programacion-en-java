@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AsistentePersona
+comment1.params=nombreUsuario
+comment1.target=AsistentePersona(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombreUsuario()
+comment3.params=nombreUsuario
+comment3.target=void\ setNombreUsuario(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ agregarNombre()
+comment5.params=nombre
+comment5.target=void\ cambiarNombre(java.lang.String)
+numComments=6

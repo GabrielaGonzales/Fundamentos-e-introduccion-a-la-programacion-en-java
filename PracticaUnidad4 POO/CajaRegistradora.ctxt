@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CajaRegistradora
+comment1.params=
+comment1.target=CajaRegistradora()
+comment2.params=producto
+comment2.target=void\ aniadirProductos(Producto)
+comment3.params=
+comment3.target=void\ factura()
+comment4.params=
+comment4.target=java.lang.String\ precioTotal()
+comment5.params=pago
+comment5.target=java.lang.String\ pagoCliente(double)
+numComments=6

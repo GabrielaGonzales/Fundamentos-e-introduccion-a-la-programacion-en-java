@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CuadernoDigital
+comment1.params=tarea
+comment1.target=CuadernoDigital(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ cambiarEstadoTarea()
+comment3.params=tarea
+comment3.target=java.lang.String\ escribirNuevaTarea(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ mostrarEstadoTarea()
+comment5.params=
+comment5.target=void\ nroTareasEscritas()
+numComments=6
