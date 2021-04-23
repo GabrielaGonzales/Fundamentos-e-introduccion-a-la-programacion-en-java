@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment1.params=arreglo
+comment1.target=Ejercicio2(int[])
+comment2.params=
+comment2.target=void\ paresImpares()
+comment3.params=
+comment3.target=void\ agregar()
+comment4.params=
+comment4.target=void\ paraImpares()
+comment5.params=
+comment5.target=void\ paraPares()
+comment6.params=
+comment6.target=int[]\ luminosidadEstrellas()
+numComments=7

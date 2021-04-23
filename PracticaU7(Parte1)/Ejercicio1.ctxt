@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=arr
+comment1.target=Ejercicio1(int[])
+comment2.params=arreglo
+comment2.target=int[]\ copia(int[])
+comment3.params=
+comment3.target=void\ burbuja()
+comment4.params=
+comment4.target=void\ mayorMenor()
+comment5.params=
+comment5.target=void\ vortice()
+comment5.text=private\ void\ mayorMenor(){\r\n\ \ \ \ \ \ \ \ menor\ \=\ ordenados[0];\r\n\ \ \ \ \ \ \ \ mayor\ \=\ ordenados[numeros.length-1];\r\n\ \ \ \ \ \ \ \ Con\ burbuja\ el\ de\ arriba\ es\ sin\ burbuja\r\n}
+numComments=6

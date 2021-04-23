@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment1.params=numeros
+comment1.target=Ejercicio3(int[])
+comment2.params=
+comment2.target=void\ mitadArreglo()
+comment3.params=
+comment3.target=void\ agregarArreglosSeparados()
+comment4.params=
+comment4.target=void\ suma()
+comment5.params=
+comment5.target=int\ numeroDesequilibrio()
+numComments=6
