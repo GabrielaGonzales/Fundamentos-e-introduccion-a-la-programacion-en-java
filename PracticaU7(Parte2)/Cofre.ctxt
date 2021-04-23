@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cofre
+comment1.params=
+comment1.target=Cofre()
+comment2.params=suenio
+comment2.target=void\ guardarSuenio(Suenio2)
+comment3.params=
+comment3.target=void\ ordenarPorPrioridad()
+comment4.params=
+comment4.target=void\ cumplirSuenios1()
+comment5.params=topico
+comment5.target=void\ cumplirSuenios2(java.lang.String)
+numComments=6

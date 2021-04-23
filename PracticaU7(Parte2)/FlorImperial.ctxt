@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FlorImperial
+comment1.params=altura
+comment1.target=FlorImperial(int)
+comment2.params=
+comment2.target=int\ getAltura()
+comment3.params=altura
+comment3.target=void\ setAltura(int)
+numComments=4

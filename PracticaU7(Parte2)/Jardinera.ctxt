@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jardinera
+comment1.params=
+comment1.target=Jardinera()
+comment2.params=florImperial
+comment2.target=void\ agregarFlor(FlorImperial)
+comment3.params=posicion
+comment3.target=void\ consultarFlor(int)
+comment4.params=posicion
+comment4.target=void\ crecerFlor(int)
+comment5.params=numero
+comment5.target=int\ cantidadDigitos(int)
+numComments=6

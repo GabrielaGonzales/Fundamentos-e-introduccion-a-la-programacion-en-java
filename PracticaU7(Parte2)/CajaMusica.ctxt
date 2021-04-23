@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CajaMusica
+comment1.params=
+comment1.target=CajaMusica()
+comment2.params=cancion
+comment2.target=void\ agregarCancion(Cancion)
+comment3.params=tituloCancion
+comment3.target=void\ eliminarCancion(java.lang.String)
+comment4.params=cancion\ posicion
+comment4.target=void\ reemplazarCancion(Cancion,\ int)
+comment5.params=
+comment5.target=void\ ordenarPorArtista()
+comment6.params=
+comment6.target=void\ ordenarPorTitulo()
+numComments=7

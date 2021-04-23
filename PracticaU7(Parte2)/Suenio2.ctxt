@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Suenio2
+comment1.params=prioridad\ topico\ descripcion
+comment1.target=Suenio2(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrioridad()
+comment3.params=prioridad
+comment3.target=void\ setPrioridad(int)
+comment4.params=
+comment4.target=java.lang.String\ getTopico()
+comment5.params=topico
+comment5.target=void\ setTopico(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDescripcion()
+comment7.params=descripcion
+comment7.target=void\ setDescripcion(java.lang.String)
+numComments=8

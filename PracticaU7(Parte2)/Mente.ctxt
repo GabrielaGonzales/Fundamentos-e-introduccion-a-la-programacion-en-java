@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mente
+comment1.params=
+comment1.target=Mente()
+comment2.params=numero
+comment2.target=void\ tamanioArreglo(int)
+comment3.params=recuerdo
+comment3.target=void\ agregarRecuerdo(Recuerdo)
+comment4.params=
+comment4.target=java.lang.String\ recuerdoLuz()
+comment5.params=
+comment5.target=void\ ordenarMemoriasDias()
+comment6.params=
+comment6.target=void\ ordenarMemoriasMes()
+comment7.params=
+comment7.target=void\ ordenarMemoriasAnio()
+numComments=8
